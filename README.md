@@ -1,18 +1,18 @@
 
 <div align="center">
-<h2>GitHub Stats</h2>
+<h1>GitHub Stats</h1>
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img src="https://github-readme-stats.vercel.app/api?username=FlaBBB&theme=aura&hide_border=false&include_all_commits=false&count_private=false"><br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=FlaBBB&theme=aura&hide_border=false"><br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlaBBB&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 </a>
 
-<h2>Other</h2>
+<h1>Other</h1>
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=FlaB&layout=compact&theme=aura">
 </a>
 
-<h2>Random Dev Meme</h2>
+<h1>Random Dev Meme</h1>
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 </div>
 
