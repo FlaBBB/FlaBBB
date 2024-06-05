@@ -12,10 +12,6 @@
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=FlaB&layout=compact&theme=aura">
 </a>
 
-<h1>Random Dev Meme</h1>
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-</div>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=FlaBBB&icon=0&color=0)](https://visitcount.itsvg.in)
 
